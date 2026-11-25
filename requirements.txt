@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+xgboost
+
+streamlit>=1.35
+requests>=2.31
+beautifulsoup4==4.12.3
+python-whois==0.9.4
+plotly>=5.20
+shap>=0.45
+bs4
+flask
+whois
+requests==2.32.3
